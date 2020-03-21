@@ -1,9 +1,9 @@
 # S9
 
 
-we have added Albumentation transforms to the S8 Code.
+Added Albumentation transforms to the S8 Code.
 
-Applied fallowing Albumentation transformations-
+Applied following Albumentation transformations-
 
 Horizontal flip,
 Rotate, 
