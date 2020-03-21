@@ -15,9 +15,12 @@ Implemented GradCam function as a module and applied in 4 layers.
 achieved 92.33% accuracy
 
 
+https://github.com/meenuraji/S9/blob/master/S9assignment.ipynb
+
+
 
 
 My team:
 Dr. Rajesh Kumar
-Dr. Meenakshi
+Dr. Mounika
 Vivek
